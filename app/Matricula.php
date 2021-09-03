@@ -12,6 +12,7 @@ class Matricula extends Model
         'estudiante_id',
         'costo_matricula',
         'costo_mensualidad'
+        
     ];
 
     public function estudiante(){

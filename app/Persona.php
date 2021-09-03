@@ -16,7 +16,7 @@ class Persona extends Model
         'cuenta_bancaria',
         'perfil',
         'correo'
-     ];
+    ];
 
 
     public function matricula(){
